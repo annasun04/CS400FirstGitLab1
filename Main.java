@@ -8,7 +8,7 @@ public class Main{
 		Scanner input = new Scanner(System.in);
 		System.out.println("Beggining of testing the color class:");
 		Color myColor = new Color("blue");
-
+		
 		System.out.println("What color do you want to change to? ");
 		String newColor = input.next();
 		//If color change succeeded
