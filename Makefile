@@ -1,4 +1,4 @@
-#First make file
+#First make file here
 default: run
 Main.class: Main.java Color.java
 	javac Main.java
