@@ -1,5 +1,8 @@
 /*
  * Test the use of the Color method
+ * Name: Anna Sun
+ * Email: asun47@wisc.edu
+ * CS Acct: asun
  */
 import java.util.*;
 

@@ -1,5 +1,8 @@
 /*
  *	Color class
+ *	Name: Anna Sun
+ *	Email: asun47@wisc.edu
+ *	CS Acct: asun
  */
 public class Color{
 	private String color;
